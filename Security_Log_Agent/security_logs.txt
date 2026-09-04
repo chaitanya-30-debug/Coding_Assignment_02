@@ -1,0 +1,15 @@
+2026-09-03 09:10:21 Failed login attempt from 192.168.1.50
+2026-09-03 09:10:25 Failed login attempt from 192.168.1.50
+2026-09-03 09:10:29 Failed login attempt from 192.168.1.50
+2026-09-03 09:10:34 Failed login attempt from 192.168.1.50
+2026-09-03 09:10:40 Successful login from 192.168.1.50
+
+2026-09-03 09:15:12 Failed login attempt from 10.0.0.25
+2026-09-03 09:16:45 Failed login attempt from 10.0.0.25
+
+2026-09-03 09:20:11 Connection attempt to port 22 from 192.168.1.100
+2026-09-03 09:20:15 Connection attempt to port 23 from 192.168.1.100
+2026-09-03 09:20:20 Connection attempt to port 3389 from 192.168.1.100
+
+2026-09-03 09:25:30 Malware detected on endpoint PC-05
+2026-09-03 09:25:35 Suspicious PowerShell execution on PC-05
